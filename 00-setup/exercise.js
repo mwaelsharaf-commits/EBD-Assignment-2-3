@@ -10,15 +10,8 @@
  */
 export function getStudent() {
   return {
-    // TODO: replace with your full name, as it appears on your student card.
     name: "Mariam Sharafeldin",
-
-    // TODO: replace with your student ID. Keep the quotes — it stays a string.
     studentId: "16003172",
-
-    // TODO: replace with your GitHub username. Not your email, not the repo
-    // name — the username that appears in your repo's URL:
-    // https://github.com/<username>/<repo>
     githubUsername: "mwaelsharaf",
   };
 }
